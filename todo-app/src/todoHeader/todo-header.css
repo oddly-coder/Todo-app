@@ -1,0 +1,12 @@
+.header{
+    text-decoration: underline;
+    color:rgb(248, 242, 242);  
+}
+.motto-container{
+    display:inline;
+    margin-left: 10px;
+}
+
+.todoHeader-container{
+    margin: 20px;
+}

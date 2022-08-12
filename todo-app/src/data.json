@@ -1,0 +1,37 @@
+[
+    {
+       "id": "1",
+       "task":"pray and study the bible",
+       "complete":false
+    },
+    {
+        "id": "2",
+       "task":"Exercise",
+       "complete":false
+    },
+    {
+        "id": "3",
+       "task":"Do chores",
+       "complete":false
+    },
+    {
+        "id": "5",
+       "task":"Brush my teeth",
+       "complete":false
+    },
+    {
+        "id": "6",
+       "task":"Take my bathe",
+       "complete":false
+    },
+    {
+        "id": "7",
+       "task":"Have breakfast",
+       "complete":false
+    },
+    {
+        "id": "8",
+       "task":"work, work ,work",
+       "complete":false
+    }
+]
